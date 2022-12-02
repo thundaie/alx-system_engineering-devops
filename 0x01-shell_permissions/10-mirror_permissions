@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference ytteb betty
+chmod --reference olleh hello
