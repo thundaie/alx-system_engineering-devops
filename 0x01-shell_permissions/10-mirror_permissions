@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --ytteb betty
+chmod --reference=ytteb betty
